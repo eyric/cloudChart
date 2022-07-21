@@ -1,6 +1,6 @@
 ## 使用JAVA语言开发的云图绘制工具
 ### 示例
-![1](http://106.12.212.42/upload/2020/11/1-9f697db9fa1a4f868daa7b9cce3198ee.png)
+![1](https://raw.githubusercontent.com/eyric/cloudChart/master/doc/img/%E6%B0%B4%E5%B9%B31%E6%88%AA%E9%9D%A2.png)
 
 ![2](http://106.12.212.42/upload/2020/11/2-4e345909914c4651a52e2beeb968c106.png)
 
